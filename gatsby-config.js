@@ -2,13 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Stephen Meehan`,
+      summary: `who lives and works as a Software Tester in Cork, Ireland.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog where I will post about topics related to Test Automation and Software Quality.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TestMacTestFace`,
     },
   },
   plugins: [
